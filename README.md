@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on D&D projects or Trading Bots.
 - 📫 How to reach me gabligetta@gmail.com.
-- 🦄 You can read my CV [here](gligetta.dev).
+- 🦄 You can read my CV [here](https://gligetta.dev/).
 
 <!---
 gabrieleligetta/gabrieleligetta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
